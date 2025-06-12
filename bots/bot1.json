@@ -1,0 +1,8 @@
+{
+  "botId": "bot1",
+  "cookiePath": "cookies/user1.json",
+  "startUrl": "https://ip-scan.browserscan.net/sys/config/ip/get-visitor-ip",
+  "profile": "desktop",
+  "os": "windows",
+  "proxy": "socks5://127.0.0.1:9050"
+}

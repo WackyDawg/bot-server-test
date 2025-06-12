@@ -1,0 +1,146 @@
+version: '3.3'
+
+services:
+  twitch-bot-1:
+    build: .
+    container_name: twitch-bot-1
+    environment:
+      - COOKIE_PATH=/app/cookies/1.json
+      - BOT_ID=bot1
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-2:
+    build: .
+    container_name: twitch-bot-2
+    environment:
+      - COOKIE_PATH=/app/cookies/2.json
+      - BOT_ID=bot2
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-3:
+    build: .
+    container_name: twitch-bot-3
+    environment:
+      - COOKIE_PATH=/app/cookies/3.json
+      - BOT_ID=bot3
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-4:
+    build: .
+    container_name: twitch-bot-4
+    environment:
+      - COOKIE_PATH=/app/cookies/4.json
+      - BOT_ID=bot4
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-5:
+    build: .
+    container_name: twitch-bot-5
+    environment:
+      - COOKIE_PATH=/app/cookies/5.json
+      - BOT_ID=bot5
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-6:
+    build: .
+    container_name: twitch-bot-6
+    environment:
+      - COOKIE_PATH=/app/cookies/6.json
+      - BOT_ID=bot6
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-7:
+    build: .
+    container_name: twitch-bot-7
+    environment:
+      - COOKIE_PATH=/app/cookies/7.json
+      - BOT_ID=bot7
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-8:
+    build: .
+    container_name: twitch-bot-8
+    environment:
+      - COOKIE_PATH=/app/cookies/8.json
+      - BOT_ID=bot8
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-9:
+    build: .
+    container_name: twitch-bot-9
+    environment:
+      - COOKIE_PATH=/app/cookies/9.json
+      - BOT_ID=bot9
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-10:
+    build: .
+    container_name: twitch-bot-10
+    environment:
+      - COOKIE_PATH=/app/cookies/10.json
+      - BOT_ID=bot10
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-11:
+    build: .
+    container_name: twitch-bot-11
+    environment:
+      - COOKIE_PATH=/app/cookies/11.json
+      - BOT_ID=bot11
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+
+  twitch-bot-12:
+    build: .
+    container_name: twitch-bot-12
+    environment:
+      - COOKIE_PATH=/app/cookies/12.json
+      - BOT_ID=bot11
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://twitch.com/gerrituur
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
