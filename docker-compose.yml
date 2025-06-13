@@ -9,7 +9,7 @@ services:
       - BOT_ID=bot1
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -21,7 +21,7 @@ services:
       - BOT_ID=bot2
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -33,7 +33,7 @@ services:
       - BOT_ID=bot3
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -45,7 +45,7 @@ services:
       - BOT_ID=bot4
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -57,7 +57,7 @@ services:
       - BOT_ID=bot5
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -69,7 +69,7 @@ services:
       - BOT_ID=bot6
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -81,7 +81,7 @@ services:
       - BOT_ID=bot7
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -93,7 +93,7 @@ services:
       - BOT_ID=bot8
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -105,7 +105,7 @@ services:
       - BOT_ID=bot9
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -117,7 +117,7 @@ services:
       - BOT_ID=bot10
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -129,7 +129,7 @@ services:
       - BOT_ID=bot11
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
 
@@ -141,6 +141,18 @@ services:
       - BOT_ID=bot11
       - devices=desktop
       - operatingSystems=windows
-      - START_URL=https://twitch.com/gerrituur
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
+      - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
+      - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
+  
+  twitch-bot-13:
+    build: .
+    container_name: twitch-bot-13
+    environment:
+      - COOKIE_PATH=/app/cookies/12.json
+      - BOT_ID=bot13
+      - devices=desktop
+      - operatingSystems=windows
+      - START_URL=https://www.twitch.tv/d4rk5ide56160
       - DISCORD_WEBHOOK=https://discord.com/api/webhooks/1045109813228621825/OMXSsYZoA76MRjyJS4ocziJwerv_mm16w0RordAQ4is_7nXiKmqkCJZFW80I8_5hY-QZ
       - DISCORD_BOT_TOKEN=MTE2MzYxNTEz+ODQ0NDc1N+TA2NQ.GXoX6G.6n8TpwprJ+cIG7UvXCjw+RnLE6IA8Bb_ANlJy3KE
